@@ -10,6 +10,6 @@ Features:
 2. Controller routing for specific models, views and functions.
 3. Database built with Code first approach using Entity Framework.
 4. Created a RESTful Web Api which calls respective HTTP protocols to implements desired CRUD operations on the database.
-5. FrontEnd built using Javascript Datatables, Jquery, and Typeahead automatic form filling; which is populated using the Web API through Javascript Ajax.
+5. FrontEnd built using CSS Bootstrap, Javascript Datatables, Jquery, and Typeahead automatic form filling; which is populated using the Web API through Javascript Ajax.
 6. Full Clientside and Serverside Validation
 7. Authentication and Authorization with embedded sign-in using Social Media feature (Only facebook for now).
